@@ -24,37 +24,38 @@ redirect_from:
   
 技能
 ======
-* **Proficient** in  MATLAB 
-* **Proficient** in Python 
-* **Familiar** with JavaScript
-* **Proficient** in Microsoft Office
-* **Fluent** in English Communication
-* **Fluent** in  English Writing
-* **Demonstrated** leadership skills
-* **Demonstrated** teamwork skills
+* **熟练使用** MATLAB 
+* **熟练使用** Python 
+* **熟悉了解** JavaScript
+* **熟练使用** 办公软件
+* **熟练的** 英语交流能力
+* **熟练的** 英语写作能力
+* **优秀的** 组织统筹能力
+* **优秀的** 团队协作能力
+
 
 获奖
 ======
-* **Excellent Bachelor Degree Thesis** of Jiangsu Province. 
-* **Best Degree Thesis Prize** of Nanjing Tech University
-* **Meritorious Winner** of Mathematical Contest in Modeling.
-* **The Third Prize** for National English Contest for College Students.
+* 江苏省本科生优秀毕业设计。 
+* 南京工业大优秀毕业论文
+* 美国大学生数学建模竞赛一等奖
+* 全国大学生英语竞赛三等奖
 
 项目经历
 ======
-* **Time Scale Based Supervisory Control of Discrete Event Dynamic Systems (DEDS) under Communication Delays**: 2017 - 2020
-  * Adopting time event to measure communication delays and reinvestigating closed-loop control problem. Solving safety control and nonblocking problems of networked DEDS.
+* **时间维度离散事件动态系统的网络时延分析与监控器综合**: 2017 - 2020
+  * 使用时间维度离散事件系统建模，研究网络化系统中存在时延和丢包时系统状态估计方法，研究保证系统安全和无阻塞的监督控制方法。
 
-* **Design and Realization of Video Surveillance System on DM6437 Platform**: 2015
-  * Proposed a mixed Gaussian model to detect and track single indoor inhabitant. Designed. And realized a video surveillance system based on DM6437 DSP platform.
+* **基于 DM6437 平台的视频监控系统设计与实现。**: 2015
+  * 基于DM6437 数字信号处理平台，使用改进的高斯模型实现室内目标的检测与跟踪，设计实现了一套视频监控系统。
 
-* **Design and Realization of the Control Systems of an Unmanned Quadrotor Helicopter**: 2013 - 2015
-  * Based on STM32, investigated and designed the controller and control algorithms for a quadrotor helicopter. Making it be able to taking off, landing, hovering and target tracking.
+* **四旋翼飞行器控制电路设计及控制算法实现**: 2013 - 2015
+  * 基于STM32开发设计四旋翼飞行器的控制器（硬件）和控制算法（软件），实现四旋翼飞行器的起降、悬停、目标跟踪等功能。
   
 学术论文
 ======
-* **Chengshi Miao**, Shaolong Shu, Feng Lin, State Estimation for Timed Discrete Event Systems with Communication Delays. Chinese Automation Congress. 2017. （EI检索）
-* **Chengshi Miao**, Shaolong Shu, Feng Lin, Predictive Supervisory Control for Timed Discrete Event Systems under Communication Delays. IEEE Conference on Decision and Control. 2019. （Top EI Conference in Control Theorem Field）
-* **Chengshi Miao**, Shaolong Shu, Feng Lin, State Estimation and Supervisor Synthesis for Timed Discrete Event Systems under Communication Delays. IEEE Transactions on Automation Control. (Under 2nd Review， Top SCI Journal in Control Theorem Field)
+* **Chengshi Miao**, Shaolong Shu, Feng Lin, State Estimation for Timed Discrete Event Systems with Communication Delays. Chinese Automation Congress. 2017. （EI检索， 发表于 2017 年中国自动化大会）
+* **Chengshi Miao**, Shaolong Shu, Feng Lin, Predictive Supervisory Control for Timed Discrete Event Systems under Communication Delays. IEEE Conference on Decision and Control. 2019. （EI 检索，受邀发表于 2019 年 IEEE 控制与决策大会 (控制理论领域顶级会议)）
+* **Chengshi Miao**, Shaolong Shu, Feng Lin, State Estimation and Supervisor Synthesis for Timed Discrete Event Systems under Communication Delays. IEEE Transactions on Automation Control. (二轮审稿阶段，投稿至 IEEE transactions on automatic control. (控制理论领域顶级期刊, SCI检索))
 
   
