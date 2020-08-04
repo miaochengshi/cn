@@ -40,3 +40,4 @@ redirect_from:
 
 ![Snowboarding](/images/Snowboarding1.jpeg)
 ![Snowboarding](/images/Snowboarding2.jpeg)
+![Snowboarding](/images/Snowboarding3.jpeg)
