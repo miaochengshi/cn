@@ -9,6 +9,4 @@ redirect_from:
 
 滑翔伞
 ======
-![My WeChat Official Account](/images/paragliding1.jpeg)  
-![My WeChat Official Account](/images/paragliding2.jpeg)  
-![My WeChat Official Account](/images/paragliding3.jpeg)  
+![My WeChat Official Account](/images/paragliding1.jpeg)![My WeChat Official Account](/images/paragliding2.jpeg)![My WeChat Official Account](/images/paragliding3.jpeg)  
