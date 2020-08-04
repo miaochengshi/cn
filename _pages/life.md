@@ -9,4 +9,8 @@ redirect_from:
 
 滑翔伞
 ======
-![My WeChat Official Account](/images/paragliding1.jpeg)![My WeChat Official Account](/images/paragliding2.jpeg)![My WeChat Official Account](/images/paragliding3.jpeg)  
+周末去体验了下滑翔伞，喜欢飞翔的感觉。
+
+![My WeChat Official Account](/images/paragliding1.jpeg)
+![My WeChat Official Account](/images/paragliding2.jpeg)
+![My WeChat Official Account](/images/paragliding3.jpeg)  
