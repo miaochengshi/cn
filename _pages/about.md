@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "关于我"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, my name is Miao Chengshi. Welcome to my homepage. 【[简体中文](https://miaochengshi.github.io/cn/)】
+你好啊，我叫苗成诗，欢迎来到我的主页！ 【[English](https://miaochengshi.github.io)】
 
 - **Towards Work** 
 > I am passionately curious, always willing to grasp new concepts and ideas. I am ambitious and driven. I am collaborative. I am also a natural leader.
