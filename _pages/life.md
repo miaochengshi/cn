@@ -7,6 +7,8 @@ redirect_from:
   - /life
 ---
 
-Paragliding
+滑翔伞
 ======
-![My WeChat Official Account](/images/paragliding1.jpg)  
+![My WeChat Official Account](/images/paragliding1.jpeg)  
+![My WeChat Official Account](/images/paragliding2.jpeg)  
+![My WeChat Official Account](/images/paragliding3.jpeg)  
