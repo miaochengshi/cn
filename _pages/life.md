@@ -9,5 +9,4 @@ redirect_from:
 
 Paragliding
 ======
-![My WeChat Official Account](/images/pa
-  
+![My WeChat Official Account](/images/paragliding1.jpg)  
