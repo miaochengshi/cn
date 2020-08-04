@@ -7,9 +7,9 @@
 
 # Site Settings
 # locale                   : "en-US"
-title                    : "HOME"
+title                    : "主页"
 title_separator          : "-"
-name                     : &name "Miao Chengshi"
+name                     : &name "苗 成诗"
 description              : "Passionate. Curious. Ambitious and driven. Collaborative. A natural leader. " #&description "personal description"
 url                      : https://miaochengshi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Miao Chengshi"
+  name             : "苗 成诗"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Candidate, Tongji University. "
-  location         : "Shanghai, China"
+  bio              : "同济大学 博士研究生"
+  location         : "中国 上海"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=CFfBRjMAAAAJ&hl=en&oi=ao"
