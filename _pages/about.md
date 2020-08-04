@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-你好啊，我叫苗成诗，欢迎来到我的主页！ 【[English](https://miaochengshi.github.io)】
+你好啊，我叫苗成诗，欢迎来到我的主页！ [[English](https://miaochengshi.github.io)]
 
 - **Towards Work** 
 > I am passionately curious, always willing to grasp new concepts and ideas. I am ambitious and driven. I am collaborative. I am also a natural leader.
