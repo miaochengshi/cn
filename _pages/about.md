@@ -10,94 +10,84 @@ redirect_from:
 
 你好啊，我是苗成诗，欢迎来到我的主页！ [[English](https://miaochengshi.github.io)]
 
-- **Towards Work** 
-> I am passionately curious, always willing to grasp new concepts and ideas. I am ambitious and driven. I am collaborative. I am also a natural leader.
+- **工作态度** 
+> 充满热情，好奇心强，兴趣广泛，学习能力强。乐于协作，善于组织统筹
 
-- **Towards Life** 
-> I love to travel, love to experience new things. I have a pleasant personality and make friends easily.
+- **生活态度** 
+> 爱旅行，爱尝试新鲜事物，性格平和，易交朋友。
 
 ## 我的微信公众号
-I am operating a WeChat official account. Dedicated to knowledge sharing of AI-related skills. 
+我独立运行一个微信公众号，致力于人工智能及相关技能的知识分享。
 
-In early 2020, we were greatly affected by the pandemic. Many schools were unable to open and started online classes. Some schools started using DingTalk for online teaching. However, it was a big challenge for local teachers to use DingTalk to teach online because many of them were not familiar with this software, at that time, there were no in-depth official tutorials. Therefore, I came up with the idea to make tutorials videos on how to use DingTalk for online teaching and online examinations. After two sessions, I got a lot of positive feedback from teachers. Finally, I made ten tutorial videos on how to use DingTalk. After this series was finished, I started making some tutorials on Python programming and writing articles on English listening and English reading.
+2020年年初时，受到疫情的影响，很多学校无法正常开学，于是开始了网上教学。我周围的中小学选择了使用钉钉进行线上教学，但是对于当地老师来说，完全学会使用钉钉进行网上教学是一个不小的挑战，因为一方面，老师们对这个软件不是很熟悉，另一方方面，钉钉也没有提供详尽完整的使用教程。因此，我们萌生了使用公众号做视频教程并传播给当地老师们的想法。当我做到第二期时，收到了来自全国很多地区很多老师们的好评，并希望我继续做下去，最终我们先后在公众号上发布了十期教程，指导老师们使用钉钉完成线上教学和线上考试。做完这个系列之后，我开始将我公众号的内容拓展，做了一些 Python编程的教程以及一些英语阅读和听力相关的公众号文章。
 
-This official account has become part of my life. On the one hand, this public number can more or less bring some help to others , on the other hand, it also constantly inspires me not to stop learning. Now, my official account mainly contains the following important sections:
+目前，这个微信公众号已经成为了我生活的一部分。一方面，这个公众号的内容或多或少能帮助到其他人，这让我感觉很欣慰，另一方面，这个公众号也在持续的激励我，不要停止学习。现在我们公众号几个主要的系列包括：
 
 - **Python 教程**
 
-I post orginal tutorial videos about Python programming. Aiming at guiding beginners to learn Python programming from scrach. In this series, I posted/ will post tuitions about:
+在这个系列中，我自己录制 Python编程的原创教学视频，来指导新手们从零开始学习 Python。这个系列 已发布的/即将发布 的内容包括：
 
-> Branching and iteration
+> 基本运算与基本操作
 
-> String manipulation
+> 字符串的用法
 
-> Guess and check method, approximations method and bisection method
+> 常用语句的使用
 
-> Functions
+> 一些简单的算法
 
-> Tuples and lists
+> 函数的定义和用法
 
-> Recursion and dictionaries
+> 元组与列表
 
-> Testing, debugging, exceptions, and assertions
+> 回归与字典
 
-> Object oriented programming 
+> 测试，调试，异常，断言的使用
 
-> Python classes and inheritance
+> 面向对象编程
 
-> Program efficiency
+> 算法复杂度
 
-> Searching and sorting
+> 搜索与排序
 
 - **数据结构与算法**
 
-In this series, I posted/will post something about data structures and algorithms. I will collect some interesting algorithm problems, and then analyze the solutions and code implementation of each algorithm problem. I will make this process as a video tutorial. Of course, some of the algorithm solutions may be inspired by the solution from web, but I will express them in my own words based on my own understanding. In this series, I posted/will post videos about:
+在这个系列中，我会发布一些数据结构与算法相关的内容。具体的，我会搜集一些有意思的算法问题，然后把分析过程和算法实现过程做成视频并发布出来。我 已发布/即将发布 的内容包括：
 
-> Algorithms about arrays
+> 数组相关的算法
 
-> Algorithms about bisection trees
+> 二叉树相关的算法
 
-> Algorithms about binary trees 
+> 一些著名的算法
 
-> Dynamic programming
+> 图相关的算法
 
-> Famous algorithms
+> 堆与栈相关的算法
 
-> Algoriths about graph
+> 回归问题相关的算法
 
-> Algoriths about heaps
-
-> Algorithms about linked lists
-
-> Algorithms about recursion
-
-> Algorithms about searching and sorting
-
-> Algorithms about stacks
-
-> Algorithms about strings
+> 搜素与排序相关的算法
 
 > ...
 
 - **特别策划**
 
-When I come up with content that is interesting or helpful to a lot of people, or a fans suggests something interesting, I'll make a video or article to put in this special planning series.
+当我们想到一些比较有意义或者比较有价值的内容，或者有粉丝像我提供一些好的想法时，我会把他们做成公众号文章，这一类的文章我都会放在这个 特别策划 的系列中。
 
-Follow my Official Account though WeChat if you are interested in what I am doing.
+如果您对我们公众号的内容有兴趣，欢迎通过微信扫描下方二维码关注我的公众号。
 ![My WeChat Official Account](/images/WeChatQR.gif)
 
 
-## My Ambition
+## 我的理想
 
-I am planning to established a younger empowerment foundation. The foundation is interest-oriented to promote robots, programming and artificial intelligence skills to empower the next yonger generation to thrive in the new technological world.
+我在筹划创立一个具有独立研发能力的青年能力提升基金会。 推广机器人与编程技能，助力青少年在新科技世界中茁壮成长。
 
 - **我的行动**
 
-> I am sharing basic Python programming skill through online classes to a number of Chinese engineers in Detroit who work in the automotive parts manufacturing and mechanical engineering industries. Together with them, we explored the feasibility of using artificial intelligence to reduce workload and increase productivity. 
+> 目前，我正在向美国底特律地区一些从事汽车零部件生产和传统机械工程行业的华人工程师们通过线上的方式提供Python编程基础的教学。此外，我们还共同探讨了使用人工智能方法减少他们工作量并提升他们工作效率的可行性。
 
-> I am teching a Grade 8 student from Indiana via online courses to learn JavaScripts in my part time. I will dynamically adjust the topics of each course according to the student's interests, hoping that by the end of the course, he will be able to use his creativity and imagination to complete a project using the knowledge he has acquired.
+> 目前，在我的空闲时间，我正在通过线上教学的教授一位来自美国印第安纳州的一位八年级学生学习JavaScript。我以兴趣为导向，根据这位学生的兴趣和学习情况，动态调整每一堂课教授的内容，同时希望课程结束前，他能充分发挥出自己的想象力和创造力，使用所学的知识完成一个他所期望的项目。
 
 
 联系我
 ------
-Contact me if you are interested in doing something awesome together with me.
+如果您也想与我一起完成这些听上去很棒的事情，请使用邮箱联系我。
