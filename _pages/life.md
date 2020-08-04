@@ -17,7 +17,7 @@ redirect_from:
 
 露营
 ======
-我喜欢露营，希望晚上躺在空旷的大地上仰望星空。再搭配上烧烤，简直完美。
+我喜欢露营，喜欢晚上躺在空旷的大地上仰望星空。再搭配上烧烤，简直完美。
 
 ![Camping](/images/Camping1.jpeg)
 ![Camping](/images/Camping2.jpeg)
