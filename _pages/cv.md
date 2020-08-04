@@ -7,14 +7,14 @@ redirect_from:
   - /cv
 ---
 
-Education
+教育经历
 ======
-* B.S. in Automation, Nanjing Tech University, 2015
-* Ph.D in Control Science and Engineering, Tongji University, 2021 (expected)
+* 同济大学，控制科学与工程 — 博士学位 2021年（预计）
+* 南京工业大学，自动化 — 学士学位 2015年
 
-Experience
+实习经历
 ======
-* **GLB Int􏰔􏰕ellige􏰔􏰕nt Technologies**. Shanghai, China Cooperative Researcher
+* **格雷博智能动力有限公** 中国上海 合作研究
   * July 2019 - June 2020
   * In charge of solving the state estimation problems and develop junction (hotspot, core) temperature evaluation algorithms for power MOSFET (capacitance, rotor and stator on a 48V Belt Starter Generator (BSG) installed in hybrid vehicles.
 
