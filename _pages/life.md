@@ -7,15 +7,18 @@ redirect_from:
   - /life
 ---
 
-![Snowboarding](/images/Snowboarding1.jpeg) ![Snowboarding](/images/Snowboarding2.jpeg)
 
 Solarized dark                    |  Solarized Ocean
 :--------------------------------:|:----------------------------------:
 ![Camping](/images/Camping1.jpeg) |  ![Camping](/images/Camping4.jpeg)
 
-滑翔伞t
+滑翔伞
 ======
 周末去体验了下滑翔伞，喜欢在蓝天下自由飞翔的感觉。
+
+浙江 海宁                              |  浙江海宁                       |  浙江海宁
+:------------------------------------:|:--------------------------------------:|:--------------------------------------:
+![Camping](/images/paragliding1.jpeg) |  ![Camping](/images/paragliding1.jpeg) |  ![Camping](/images/paragliding1.jpeg)
 
 ![Paragliding](/images/paragliding1.jpeg)
 ![Paragliding](/images/paragliding2.jpeg)
