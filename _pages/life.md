@@ -7,6 +7,8 @@ redirect_from:
   - /life
 ---
 
+<div align = "center"><img src="/images/Camping1.jpeg" ><img hspace=20 src="/images/Camping1.jpeg" width="30%" ></div>
+
 滑翔伞
 ======
 周末去体验了下滑翔伞，喜欢在蓝天下自由飞翔的感觉。
