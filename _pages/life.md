@@ -7,9 +7,13 @@ redirect_from:
   - /life
 ---
 
-<div align = "center"><img src="/images/Camping1.jpeg" width="30%" ><img hspace=20 src="/images/Camping1.jpeg" width="30%" ></div>
+![Snowboarding](/images/Snowboarding1.jpeg) ![Snowboarding](/images/Snowboarding2.jpeg)
 
-滑翔伞
+Solarized dark                    |  Solarized Ocean
+:--------------------------------:|:----------------------------------:
+![Camping](/images/Camping1.jpeg) |  ![Camping](/images/Camping4.jpeg)
+
+滑翔伞t
 ======
 周末去体验了下滑翔伞，喜欢在蓝天下自由飞翔的感觉。
 
