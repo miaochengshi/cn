@@ -7,7 +7,7 @@ redirect_from:
   - /life
 ---
 
-<div align = "center"><img src="/images/Camping1.jpeg" ><img hspace=20 src="/images/Camping1.jpeg" width="30%" ></div>
+<div align = "center"><img src="/images/Camping1.jpeg" width="30%" ><img hspace=20 src="/images/Camping1.jpeg" width="30%" ></div>
 
 滑翔伞
 ======
