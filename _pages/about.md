@@ -25,23 +25,27 @@ redirect_from:
 
 这个微信公众号已经成为了我生活的一部分。一方面，这个公众号的内容或多或少能帮助到其他人，这让我感觉很欣慰，另一方面，这个公众号也在持续的激励我，不要停止学习。现在我们公众号几个主要的系列包括：
 
-- **Python 教程**
+- [**Python 教程**](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1340867406746583041&__biz=MzAxNTg5MDI2Mg==#wechat_redirect)
 
 在这个系列中，我自己录制了Python编程的原创教学视频，旨在初学者们从零开始学习Python。
 
-- **数据结构与算法**
+- [**数据结构与算法**](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1469931623889567750&__biz=MzAxNTg5MDI2Mg==#wechat_redirect)
 
 在这个系列中，我主要发布一些数据结构与算法相关的内容。具体的，我会搜集一些有意思的算法问题，然后把分析过程和算法实现过程做成视频并发布出来。
 
-- **Python与金融科技**
+- [**Python算法实战**](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1469931623889567750&__biz=MzAxNTg5MDI2Mg==#wechat_redirect)
+
+在这个系列中，我主要搜集并发布一些算法面试的题目及其代码实现。
+
+- [**Python与金融科技**](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1562820814436106242&__biz=MzAxNTg5MDI2Mg==#wechat_redirect)
 
 在这个系列中，我主要发布使用Python高效地进行金融数据分析和可视化等相关的技能。
 
-- **Python与金融科技**
+- [**TIE系列**](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1589437448407810048&__biz=MzAxNTg5MDI2Mg==#wechat_redirect)
 
-在这个系列中，我主要发布使用Python高效地进行金融数据的分析和可视化等相关的技能。
+在这个系列中，我主要发布一些英语单词的历史、起源等。
 
-- **特别策划**
+- [**特别策划**](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1371964478593662978&__biz=MzAxNTg5MDI2Mg==#wechat_redirect)
 
 当我想到一些比较有意义或者比较有价值的内容，或者有粉丝向我提供一些好的想法时，我会把相关做成公众号文章，这一类的文章我都会放在这个系列中。
 
